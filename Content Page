@@ -1,135 +1,23 @@
 {
-   "title":"Attack on Titan",
-   "description":"The full collection of fan coloured chapters by SCNK and other artists for the entire span of the Marley Arc (Volumes 23-26: Chapters 92-106). 95 is currently incomplete. 96, 100, 102 and 103 have been updated with better colouring for some pages while 101 uses fatiglow's version with some aaf66 pages. All artwork belongs to the respective artists and they have done a terrific job at colouring, thank you for colouring Attack on Titan.",
-   "artist":"Hajime Isayama",
-   "author":"Hajime Isayama",
-   "cover":"https://pbs.twimg.com/media/EdX3NO6UwAMCwIe?format=jpg&name=large",
+   "title":"Gantz - Digital Colored Comics",
+   "description":"Up to the Osaka arc",
+   "artist":"Oku Hiroya",
+   "author":"Oku Hiroya",
+   "cover":"https://metac.nxtv.jp/img/bookimg/pubridge/00003997/BT000039975500100101.jpg?output-format=jpg&output-quality=70&resize=1024:*",
    "chapters":{
-      "91":{
-         "title":"The Other Side of the Ocean",
-         "volume":"23",
+      "1":{
+         "title":"Onion Alien Arc 1",
+         "volume":"Part 1",
          "groups":{
-            "u/NaVENOM":"/proxy/api/imgur/chapter/TjXrl/"
+            "Qoenntrell":"/proxy/api/imgur/chapter/lxGwmsH/"
          },
          "last_updated":"1616368746"
       },
-      "92":{
-         "title":"Marley's Soldiers",
-         "volume":"23",
+      "2":{
+         "title":"Onion Alien Arc 2",
+         "volume":"Part 1",
          "groups":{
-            "SCNK":"/proxy/api/imgur/chapter/NHieyEg/"
-         },
-         "last_updated":"1616368746"
-      },
-      "93":{
-         "title":"Midnight Train",
-         "volume":"23",
-         "groups":{
-            "SCNK":"/proxy/api/imgur/chapter/tVasyIJ/"
-         },
-         "last_updated":"1616368746"
-      },
-      "94":{
-         "title":"The Boy Inside the Walls",
-         "volume":"23",
-         "groups":{
-            "SCNK":"/proxy/api/imgur/chapter/3VNftdJ/"
-         },
-         "last_updated":"1616368746"
-      },
-      "95":{
-         "title":"Liar",
-         "volume":"24",
-         "groups":{
-            "SCNK":"/proxy/api/imgur/chapter/CzRTHmb/"
-         },
-         "last_updated":"1616368746"
-      },
-      "96":{
-         "title":"The Door of Hope",
-         "volume":"24",
-         "groups":{
-            "u/S0ulMadness":"/proxy/api/imgur/chapter/oxeAE2c/"
-         },
-         "last_updated":"1616368746"
-      },
-      "97":{
-         "title":"From One Hand to Another",
-         "volume":"24",
-         "groups":{
-            "u/maxgreenhorn & u/S0ulMadness":"/proxy/api/imgur/chapter/LYcim/"
-         },
-         "last_updated":"1616368746"
-      },
-      "98":{
-         "title":"Good to See",
-         "volume":"24",
-         "groups":{
-            "SCNK":"/proxy/api/imgur/chapter/SBexv/"
-         },
-         "last_updated":"1616368746"
-      },
-      "99":{
-         "title":"Guilty Shadow",
-         "volume":"25",
-         "groups":{
-            "Shin-color No Kyojin":"/proxy/api/imgur/chapter/VkQHj/"
-         },
-         "last_updated":"1616368746"
-      },
-      "100":{
-         "title":"Declaration of War",
-         "volume":"25",
-         "groups":{
-            "Shin-color No Kyojin":"/proxy/api/imgur/chapter/8s6dQmA/"
-         },
-         "last_updated":"1616368746"
-      },
-      "101":{
-         "title":"Warhammer Titan",
-         "volume":"25",
-         "groups":{
-            "SCNK":"/proxy/api/imgur/chapter/HC8RLtd/"
-         },
-         "last_updated":"1616368746"
-      },
-      "102":{
-         "title":"Too Little, Too Late",
-         "volume":"25",
-         "groups":{
-            "SCNK":"/proxy/api/imgur/chapter/OPbX9IL/"
-         },
-         "last_updated":"1616368746"
-      },
-      "103":{
-         "title":"Assault",
-         "volume":"26",
-         "groups":{
-            "SCNK":"/proxy/api/imgur/chapter/AbLhZiD/"
-         },
-         "last_updated":"1616368746"
-      },
-      "104":{
-         "title":"Victors",
-         "volume":"26",
-         "groups":{
-            "SCNK":"/proxy/api/imgur/chapter/JjPLVTN/"
-         },
-         "last_updated":"1616368746"
-      },
-      "105":{
-         "title":"Assasin's Bullet",
-         "volume":"26",
-         "groups":{
-            "SCNK":"/proxy/api/imgur/chapter/zpgXxYg/"
-         },
-         "last_updated":"1616368746"
-      },
-      "106":{
-         "title":"Brave Volunteers",
-         "volume":"26",
-         "groups":{
-            "SCNK":"/proxy/api/imgur/chapter/dmizYq2/"
+            "Qoenntrell":"/proxy/api/imgur/chapter/lxGwmsH/"
          },
          "last_updated":"1616368746"
       }
